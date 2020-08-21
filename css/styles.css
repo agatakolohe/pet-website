@@ -39,3 +39,7 @@ img {
   height: auto;
   display: block;
 }
+.favorite {
+  color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+}
