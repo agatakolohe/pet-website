@@ -1,31 +1,27 @@
 body {
-  background: darkgrey;
+  background: darkcyan;
+  color: white;
+}
+.jumbotron {
+  background-color: #007272;
   text-align: center;
+
 }
-h1 {
-  color: darkmagenta;
-  font-family: 'Times New Roman', Times, serif;
+.picard {
+  float: right;
 }
-h2 {
-  color: orchid;
-  font-family: 'Times New Roman', Times, serif;
+a {
+  color: darkslategray;
 }
-h3 {
-  color: darkorchid;
-  font-family: 'Times New Roman', Times, serif;
+.important {
+  color: maroon;
+  font-style: oblique;
 }
-p {
-  color: darkviolet;
-  font-family: 'Times New Roman', Times, serif;
-}
+
 ul {
-  color: mediumorchid;
-  font-family: 'Times New Roman', Times, serif;
   list-style-position: inside;
 }
 ol {
-  color: mediumorchid;
-  font-family: 'Times New Roman', Times, serif;
   list-style-position: inside;
 }
 img {
@@ -33,10 +29,11 @@ img {
   width: 40%;
   height: auto;
   display: block;
+  border: white solid;
 }
+
 .favorite {
-  color: aqua;
-  font-family: Arial, Helvetica, sans-serif;
+  color: seashell;
 }
 .black-background {
   background-color: black;
